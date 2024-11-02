@@ -12,8 +12,10 @@ public class Main {
             System.out.println("i = " + i);
         }
         byte n = 8;
+        int number = 124_390;
         while(n > 0){
             System.out.println(n);
+            System.out.println(number-1);
             n -= 2;
         }
 
