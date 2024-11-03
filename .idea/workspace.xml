@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d239eaf-fefa-4591-94b5-ef7d17bea74b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     "Application.Inputs.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "inputs",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/kiril/Documents/GitHub/Practice_Java/src/Main.java",
     "project.structure.last.edited": "Project",
