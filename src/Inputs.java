@@ -13,6 +13,12 @@ public class Inputs {
                 continue;
             if (input.equals("quit"))
                 break;
+            if (input.equals("twice")) {
+                for (int i = 0; i<1; i++){
+                    System.out.println("twice");
+                }
+            }
+
             System.out.println(input);
         }
     }
