@@ -17,6 +17,7 @@ public class Main {
             System.out.println(n);
             System.out.println(number-1);
             n -= 2;
+            number++;
         }
 
     }
