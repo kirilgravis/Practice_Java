@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d239eaf-fefa-4591-94b5-ef7d17bea74b" name="Changes" comment="">
+    <list default="true" id="5d239eaf-fefa-4591-94b5-ef7d17bea74b" name="Changes" comment="if else vs switch case in java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,9 @@
     &quot;accountId&quot;: &quot;6c236db9-35c2-4ecf-8d6f-ae89e8cc8b0c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrays.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.Inputs.executor": "Run",
     "Application.Main.executor": "Run",
@@ -70,6 +74,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730061512536</updated>
     </task>
+    <task id="LOCAL-00001" summary="if else vs switch case in java">
+      <option name="closed" value="true" />
+      <created>1731266123945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731266123945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +97,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="if else vs switch case in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="if else vs switch case in java" />
   </component>
 </project>
